@@ -6,7 +6,7 @@
 - php artisan serve
 
 ## Uso da aplicação
-- Evitar realizar diversas chamadas consecutivas na api pois o google pode detectar aumento de trafego para o seu ip, o recomendado é ir chamando aos poucos caso tenha muita coisa pra traduzir
+- Evite realizar diversas chamadas consecutivas na api pois o google pode detectar aumento de trafego para o seu ip e poderá bloquea-lo por algumas horas, o recomendado é ir chamando aos poucos caso tenha muita coisa pra traduzir
 
 ## POST localhost:8000/api/traduzir
 
